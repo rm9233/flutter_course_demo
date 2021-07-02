@@ -1,0 +1,150 @@
+PODS:
+  - aliyunoss (0.0.1):
+    - AliyunOSSiOS
+    - Flutter
+  - AliyunOSSiOS (2.10.9)
+  - camera (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_downloader (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - image_picker (0.0.1):
+    - Flutter
+  - JCore (2.6.2)
+  - JPush (3.6.1):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - jpush_flutter (0.0.2):
+    - Flutter
+    - JCore (= 2.6.2)
+    - JPush (= 3.6.1)
+  - orientation (0.0.1):
+    - Flutter
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - permission_handler (3.0.1):
+    - Flutter
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - url_launcher (0.0.1):
+    - Flutter
+  - video_player (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - aliyunoss (from `.symlinks/plugins/aliyunoss/ios`)
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_downloader (from `.symlinks/plugins/flutter_downloader/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - jpush_flutter (from `.symlinks/plugins/jpush_flutter/ios`)
+  - orientation (from `.symlinks/plugins/orientation/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AliyunOSSiOS
+    - FMDB
+    - JCore
+    - JPush
+    - Reachability
+
+EXTERNAL SOURCES:
+  aliyunoss:
+    :path: ".symlinks/plugins/aliyunoss/ios"
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_downloader:
+    :path: ".symlinks/plugins/flutter_downloader/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  jpush_flutter:
+    :path: ".symlinks/plugins/jpush_flutter/ios"
+  orientation:
+    :path: ".symlinks/plugins/orientation/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  aliyunoss: dfa8819f3bac3246b1a0d23a8aa99636098bc3fd
+  AliyunOSSiOS: 13173e9eaf05d3816315319876025de3028ea31d
+  camera: 3164201dc344383e62282964016528c4f5a9ad50
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  device_info: cbf09d2ec12aa7110e0b09fabe54b5bd6c8efe74
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_downloader: 058b9c41564a90500f67f3e432e3524613a7fd83
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  image_picker: e06f7a68f000bd36f552c1847e33cda96ed31f1f
+  JCore: 0cb4fc5892bc97af4f27283875369ead3eaa3067
+  JPush: 507d66d7ea307faba1330666d48e4e92af611659
+  jpush_flutter: e75658a5342e3bfe22d9f3de5dfacd3ef44230c5
+  orientation: 46fe7528896a5c3e6215366bcb462c182ebfd4e9
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: 6e56ded745f5a0b9dcc0327c65c4acd6a33b776b
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  video_player: 69c5f029fac4ffe4fc8a85ea7f7b793709661549
+  wakelock: da5012e206ec8978df58d8642e4cdd4fe506185f
+  webview_flutter: db3aba222b23e4dc432e0c5882834123dc50ff9f
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3

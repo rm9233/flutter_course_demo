@@ -1,0 +1,104 @@
+name: app
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+
+
+
+#  webview_flutter:
+#    path: /Users/renming/Desktop/webview_flutter
+
+
+version: 1.0.0+210101
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_screenutil: 3.2.0
+  shared_preferences: 2.0.6
+  synchronized: 2.1.0+2
+  event_bus: 1.1.0
+  connectivity: 3.0.6
+  dio: 4.0.0
+
+  fluttertoast: 4.0.1
+  device_info: 0.4.1+4
+  package_info: 0.4.0+18
+  modal_progress_hud: 0.1.3
+  flutter_spinkit: 4.1.2+1
+  keyboard_actions: 3.1.2
+  wakelock: 0.1.3
+  archive: 2.0.13
+#  image_cropper: 1.2.3
+  image_picker: 0.8.1+1
+  uuid: 2.2.2
+  intl: 0.16.1
+  jpush_flutter: 2.1.2
+  orientation: 1.0.5
+#  image_gallery_saver: 1.5.0
+
+  #最新版本要flutter 升级到 1.2.0
+#  vibration: 1.7.3
+
+  #最新版本要flutter 升级到 1.2.3 (稳定版本到1.2.3)
+  video_player: 0.10.5+1
+  path_provider: 2.0.2
+  flutter_downloader: 1.3.4
+  permission_handler: 3.0.1
+  jaguar_flutter_asset: 2.2.0
+  cached_network_image: 2.3.3
+  jaguar: 2.2.1
+  flutter_html: 0.11.1
+  url_launcher: 6.0.7
+  camera: 0.8.1+3
+  #  flutter_inapp_purchase: 5.0.1
+  aliyunoss:
+    git:
+      url: https://github.com/rm9233/aliyunoss.git
+  webview_flutter:
+    git:
+      url: https://github.com/rm9233/webview_flutter.git
+#  flutter_cupertino_date_picker:
+#    git:
+#      url: https://github.com/rm9233/flutter-cupertino-date-picker # Repo
+#      ref: master # Branch name
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: 0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/image/
